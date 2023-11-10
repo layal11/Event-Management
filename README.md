@@ -5,7 +5,7 @@ It's a platform for building local communities and creating events.
 - Backend: NodeJS, MongoDB.
 - Frontend: ReactJS.
 
-## Dependencies
+### Dependencies
 - Express, Mongoose.
 - Body-parser and cors.
 - JWT (JSON Web Token)
